@@ -1,33 +1,22 @@
 {
-    "experiences": [
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
-            "workDescription": [
-                "Worked on abc."
-            ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
-        }
-    ]
+  "experiences": [
+    {
+      "title": "Backend Developer",
+      "subtitle": "Pt Sekawan Media",
+      "workType": "Full-time",
+      "workDescription": [
+        "I have experience with various backend tools such as Linux, Docker, message brokers, SQL and NoSQL databases, and GitLab. I have successfully built several projects, including a licensing application that communicates with other applications using dierent databases. I developed a POS system for several stores and warehouses that included accounting features, ensuring that every transaction was recorded accurately."
+      ],
+      "dateText": "07/2021 – 02/2024"
+    },
+    {
+      "title": "Web Developer",
+      "subtitle": "Pt Korina",
+      "workType": "Internship",
+      "workDescription": [
+        "Developed and implemented an admin content feature to manage news and announcements on the company's website, enhancing the user experience and streamlining content updates"
+      ],
+      "dateText": "06/2020 – 08/2020"
+    }
+  ]
 }

@@ -14,6 +14,12 @@ const styles = {
     margin: 10,
     marginBottom: 0,
   },
+  iconStyle2: {
+    height: 75,
+    width: 120,
+    margin: 10,
+    marginBottom: 0,
+  },
   introTextContainer: {
     whiteSpace: 'pre-wrap',
   },
@@ -53,7 +59,7 @@ function Skills(props) {
                   {rows.items.map((item) => (
                     <div key={item.title} style={{ display: 'inline-block' }}>
                       <img
-                        style={styles.iconStyle}
+                        style={item.icon_size === 1 ? styles.iconStyle2 : styles.iconStyle}
                         src={item.icon}
                         alt={item.title}
                       />
